@@ -2,7 +2,7 @@
 Estos componentes están personalizados para mejorar el diseño de interfaces gráficas en java
 
 <img src="https://github.com/RojeruSan/Componentes-RS-1.0/blob/RojeruSan/imagen.PNG">
-Puden ver el vídeo de como se utilizan aquí: https://www.youtube.com/edit?o=U&video_id=SJf41gXZMmg"
+Puden ver el vídeo de como se utilizan aquí: https://www.youtube.com/edit?o=U&video_id=SJf41gXZMmg
 
 Puedes ayudarme con tus donaciónes para seguir creciendo, GRACIAS.<br>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JLWEAETTE3H28" target="_blank">
